@@ -1,7 +1,7 @@
 ## ASP.NET Membership Database
 
 This is a seed project which you can use to create your custom ASP.NET Membership solution using
-'[Database First](http://msdn.microsoft.com/en-us/data/jj206878.aspx)' development approach.
+[Database First](http://msdn.microsoft.com/en-us/data/jj206878.aspx) development approach.
 
 ![ASP.NET Membership Database](http://i.imgur.com/whB1uCn.png)
 
@@ -12,9 +12,8 @@ This is a seed project which you can use to create your custom ASP.NET Membershi
 
 ### How to deploy
 
-Double-click on the ``.\Database\Publish Profiles\Local.publish.xml``` file in Solution Explorer which should open
-publishing dialog and click [Publish]. By default the database is going to be published to
-```(LocalDb)\v11.0.Membership```.
+Double-click on the ```.\Database\Publish Profiles\Local.publish.xml``` file in Solution Explorer which should open
+publishing dialog and click [Publish].
 
 ![ASP.NET Membership Database Publish Dialog](http://i.imgur.com/QrT9MBp.png)
 
