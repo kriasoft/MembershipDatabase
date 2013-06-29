@@ -88,7 +88,6 @@
     <None Include="Publish Profiles\Local.publish.xml" />
     <None Include="Publish Profiles\Production.publish.xml" />
     <None Include="Publish Profiles\Test.publish.xml" />
-    <None Include="README.md" />
     <None Include="Reference Data\User.sql" />
     <None Include="Reference Data\UserRole.sql" />
     <None Include="Reference Data\UserUserRole.sql" />
