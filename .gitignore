@@ -90,11 +90,12 @@ DocProject/Help/Html2
 DocProject/Help/html
 
 # Click-Once directory
-publish/
+[Pp]ublish/
 
 # Publish Web Output
-*.Publish.xml
+#*.[Pp]ublish.xml
 *.pubxml
+*.publishsettings
 
 # NuGet Packages Directory
 ## TODO: If you have NuGet Package Restore enabled, uncomment the next line
@@ -115,9 +116,7 @@ ClientBin/
 ~$*
 *~
 *.dbmdl
-*.[Pp]ublish.xml
 *.pfx
-*.publishsettings
 
 # RIA/Silverlight projects
 Generated_Code/
