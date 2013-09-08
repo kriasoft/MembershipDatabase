@@ -1,4 +1,4 @@
-## ASP.NET Membership Database
+## ASP.NET Identity / Membership Database
 
 This is a seed project which you can use to create your custom ASP.NET Identity / Membership solution using
 [Database First](http://msdn.microsoft.com/en-us/data/jj206878.aspx) development approach.
